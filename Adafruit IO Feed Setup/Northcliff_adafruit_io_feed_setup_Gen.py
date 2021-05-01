@@ -33,7 +33,7 @@ enviro_aio_premium_plus_noise_feeds = {"Temperature": "temperature", "Humidity":
                     "PM10": "pm10", "Carbon Dioxide": "carbon-dioxide", "TVOC": "tvoc", "Reducing": "reducing", "Oxidising": "oxidising", "Ammonia": "ammonia",
                                        "Max Noise": "max-noise", "Min Noise": "min-noise", "Mean Noise": "mean-noise", "Air Quality Level": "air-quality-level",
                                        "Air Quality Text": "air-quality-text", "Weather Forecast Text": "weather-forecast", "Weather Forecast Icon": "weather-forecast-icon", "Version": "version"}
-enviro_aio_basic_air_feeds = {"PM1": "pm1", "PM2.5": "pm2-dot-5", "PM10": "pm10", "Air Quality Level": "air-quality-level", "Air Quality Text": "air-quality-text"}
+enviro_aio_basic_air_feeds = {"PM1": "pm1", "PM2.5": "pm2-dot-5", "PM10": "pm10", "Air Quality Level": "air-quality-level", "Air Quality Text": "air-quality-text", "Carbon Dioxide": "carbon-dioxide", "TVOC": "tvoc", "Reducing": "reducing", "Oxidising": "oxidising", "Ammonia": "ammonia"}
 enviro_aio_basic_combo_feeds = {"Temperature": "temperature", "Humidity": "humidity", "Barometer": "barometer", "Air Quality Level": "air-quality-level", "Weather Forecast Icon": "weather-forecast-icon"}
 enviro_aio_feeds_map = {'Premium Plus': enviro_aio_premium_plus_feeds, 'Premium Plus Noise': enviro_aio_premium_plus_noise_feeds,'Premium': enviro_aio_premium_feeds, 'Premium Noise': enviro_aio_premium_noise_feeds,
                         'Basic Air': enviro_aio_basic_air_feeds, 'Basic Combo': enviro_aio_basic_combo_feeds}
